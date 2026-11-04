@@ -16,3 +16,5 @@ mlflow.db
 .ipynb_checkpoints/
 .DS_Store*.pth
 *.pt
+*.pth
+*.pt
